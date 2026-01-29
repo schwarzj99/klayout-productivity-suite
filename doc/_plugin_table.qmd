@@ -39,3 +39,4 @@ The available plugins are listed in the table below.
 | Move Quickly Tool Plugin | Tool to quickly move layout objects | <https://github.com/iic-jku/klayout-move-tool> |
 | Pin Tool Plugin | Efficient placement of pins | <https://github.com/iic-jku/klayout-pin-tool> |
 | Plugin Utilities Library | Utility library used by various IIC KLayout plugins | <https://github.com/iic-jku/klayout-plugin-utils> |
+| Vector File Export Plugin | Plugin to export layouts as vector files (PDF, SVG) | <https://github.com/iic-jku/klayout-vector-file-export> |

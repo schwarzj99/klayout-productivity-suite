@@ -20,6 +20,7 @@ Included plugins (alphabetically):
    * https://github.com/iic-jku/klayout-move-tool
    * https://github.com/iic-jku/klayout-pin-tool
    * https://github.com/iic-jku/klayout-plugin-utils – a utility library used by several of the plugins
+   * https://github.com/iic-jku/klayout-vector-file-export
 
 ## Acknowledgements
 
