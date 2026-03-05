@@ -21,17 +21,17 @@ limitations under the License.
 
 Export the layout data to a vector graphics file in SVG or PDF format.
 
-* precise scaling factor
-* choose which layers to include
-* choose which text layers to include 
+- precise scaling factor
+- choose which layers to include
+- choose which text layers to include 
 
 The plugin allows for the following export modes:
 
-* PDF
-    * single page (everything on one page)
-    * layer per page (breaks every layer into a seperate page)
-* SVG
-    * only single page
+- PDF
+    - single page (everything on one page)
+    - layer per page (breaks every layer into a seperate page)
+- SVG
+    - only single page
 
 ## Usage
 After installation, the export dialog can be accessed through *File*→*Export Vector File…*
