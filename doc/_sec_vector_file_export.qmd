@@ -36,10 +36,3 @@ The plugin allows for the following export modes:
 ## Usage
 After installation, the export dialog can be accessed through *File*→*Export Vector File…*
 ![Vector File Export](figures/vector-file-export/klayout-vector-file-export-screenshot.jpg){#fig-vector-file-export}
-
-
-## To be completed
-yes very much to be completed
-
-## Obligatory
-In case I don't see you. Good afternoon, good evening and good night
