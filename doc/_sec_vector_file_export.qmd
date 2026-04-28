@@ -67,6 +67,8 @@ After that, you should be able to run `klayout-vector-export --help` and view th
 
 The plugin needs to know the input files and the output files, as well as the used technology. If no format is specified PDF is assumed and if no file ending is specified in the output file a PDF file with no file ending is generated. Default page format is A4 with 120mm Figure width and default colors are Black & White.
 
-So an example could look lile `klayout-vector-export --in ./layout.gds --out ./layout.pdf --tech sg13g2`.  This will take the layout `layout.gds` in the technology `sg13g2` and output all layers and all text layers into the pdf file `layout.pdf`.
+So an example could look like 
+```bash
+klayout-vector-export --in ./layout.gds --out ./layout.pdf --tech sg13g2
 
 Most of the settings are the same as in the GUI, apart from the visible texts and layers as the CLI does not have that data from klayout.
