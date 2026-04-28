@@ -47,7 +47,7 @@ The scaling factor can be set to a factor that scales the absolute size of the b
 Allows the user to choose the output colors (*Black & White*, *Greyscale* or *Color*), the selection of the used font and the font size in absolute or relative.
 
 ### Text and Layer selection
-Allows the inclusion or exclusion of text layers (eg None, Only of Top Cell, All or all Visible) or a custom comma or blank seperated list of the text layers to include.
+Allows the inclusion or exclusion of text layers (*None*, *Only of Top Cell*, *All or *All Visible*) or a custom comma or blank seperated list of the text layers to include.
 Allows the inclusion or exlusion of the layout layers (*None*, *All Visible*, *All*) or a custom comma or blank seperated list in the usual layer notation (e.g. `Metal1.drawing (8/0)`).
 
 The *Save Runset* button allows to save the current settings for later use or for debugging or GitHub Issues.
