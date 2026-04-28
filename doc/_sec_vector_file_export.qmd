@@ -44,7 +44,7 @@ The plugin allows for a multitude of page formats, including most paper formats,
 The scaling factor can be set to a factor that scales the absolute size of the bounding box of the layout (so 1 sets the output size to the actual size of the layout) or to a custom figure size in mm that keeps the aspect ratio of the layout. 
 
 ### Formatting   
-Allows the user to choose the output colors (Black & White, Grayscale or Color), the selection of the used font and the font size in absolute or relative.
+Allows the user to choose the output colors (*Black & White*, *Greyscale* or *Color*), the selection of the used font and the font size in absolute or relative.
 
 ### Text and Layer selection
 Allows the inclusion or exclusion of text layers (eg None, Only of Top Cell, All or all Visible) or a custom comma or blank seperated list of the text layers to include.
