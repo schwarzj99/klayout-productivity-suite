@@ -70,5 +70,5 @@ The plugin needs to know the input files and the output files, as well as the us
 So an example could look like 
 ```bash
 klayout-vector-export --in ./layout.gds --out ./layout.pdf --tech sg13g2
-
+```
 Most of the settings are the same as in the GUI, apart from the visible texts and layers as the CLI does not have that data from klayout.
