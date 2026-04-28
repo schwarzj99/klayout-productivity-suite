@@ -55,7 +55,7 @@ The save runset button allows to save the current settings for later use or for 
 
 # Vector File Export CLI (PDF, SVG)
 
-Export the layout data to a vector graphics file in SVG or PDF format using a command-line interface. Requires the main klayout plugin to work
+Export the layout data to a vector graphics file in SVG or PDF format using a command-line interface. Requires the main klayout plugin to work.
 
 ## Installation  
 For first installation use: `pip3 install klayout-vector-file-export-cli` and for updating use: `pip3 install --upgrade klayout-vector-file-export-cli`.
